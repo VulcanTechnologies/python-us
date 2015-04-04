@@ -1,4 +1,4 @@
-jellyfish==0.2.1
+jellyfish==0.4.0
 
 # only required for tests
-requests==2.2.1
+requests==2.6.0
